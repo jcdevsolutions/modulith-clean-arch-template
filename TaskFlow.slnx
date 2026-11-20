@@ -21,4 +21,7 @@
     <Project Path="src/Modules/Users/Users.Domain/Users.Domain.csproj" />
     <Project Path="src/Modules/Users/Users.Infrastructure/Users.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ArchitectureTests/ArchitectureTests.csproj" />
+  </Folder>
 </Solution>
