@@ -1,0 +1,24 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Api/">
+    <Project Path="src/Api/Web.Api/Web.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Common/">
+    <Project Path="src/Common/Common.Application/Common.Application.csproj" />
+    <Project Path="src/Common/Common.Infrastructure/Common.Infrastructure.csproj" />
+    <Project Path="src/Common/SharedKernel/SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Todos/">
+    <Project Path="src/Modules/Todos/Todos.Application/Todos.Application.csproj" />
+    <Project Path="src/Modules/Todos/Todos.Contracts/Todos.Contracts.csproj" />
+    <Project Path="src/Modules/Todos/Todos.Domain/Todos.Domain.csproj" />
+    <Project Path="src/Modules/Todos/Todos.Infrastructure/Todos.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Users/">
+    <Project Path="src/Modules/Users/Users.Application/Users.Application.csproj" />
+    <Project Path="src/Modules/Users/Users.Contracts/Users.Contracts.csproj" />
+    <Project Path="src/Modules/Users/Users.Domain/Users.Domain.csproj" />
+    <Project Path="src/Modules/Users/Users.Infrastructure/Users.Infrastructure.csproj" />
+  </Folder>
+</Solution>
