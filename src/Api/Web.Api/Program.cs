@@ -2,6 +2,8 @@
 
 WebApplication app = builder.Build();
 
+// services.AddCommonApplication([usersApplication, todosApplication]);
+
 await app.RunAsync();
 
 // REMARK: Required for functional and integration tests to work.

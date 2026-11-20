@@ -23,5 +23,6 @@
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/ArchitectureTests/ArchitectureTests.csproj" />
+    <Project Path="tests/Common.Application.UnitTests/Common.Application.UnitTests.csproj" Id="45f656e7-f2be-4c61-b883-bc8aeb357a06" />
   </Folder>
 </Solution>
